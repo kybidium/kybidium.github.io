@@ -1,0 +1,4 @@
+baseURL = "https://kybidium.github.io/"
+title = "My Blog"
+theme = "etch"   # or cactus
+disableKinds = ["taxonomy", "term"]  # optional trim
